@@ -29,7 +29,8 @@ Value Level Insights - The most prominent sponsorship tiers are high and medium.
 ## Contact
 Name: Sophie Lee Fegan
 LinkedIn: https://www.linkedin.com/in/sophie-lee-fegan-053917430/
-GitHub:
+GitHub: https://github.com/SophieLee-Fegan
+
 
 
 
